@@ -1,0 +1,6 @@
+spaghetti,16
+ground chuck,1
+onion,1
+garlic,3
+marinara sauce,24
+mozzarella,1
